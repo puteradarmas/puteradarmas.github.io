@@ -8,7 +8,7 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: puteradarmas
-email: puteradarmas19@gmailcom.com
+email: puteradarmas19@gmail.com
 
 # absolute or relative
 profile_picture: assets/images/profile-pict.jpg
